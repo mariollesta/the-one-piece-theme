@@ -22,5 +22,6 @@
         "path": "./themes/the-one-piece-theme.json"
       }
     ]
-  }
+  },
+  "license": "MIT"
 }
