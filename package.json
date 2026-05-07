@@ -1,0 +1,21 @@
+{
+  "name": "the-one-piece-theme",
+  "displayName": "The One Piece Theme",
+  "description": "Clean One Piece theme for Visual Studio Code",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.118.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "The One Piece Theme Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/the-one-piece-theme.json"
+      }
+    ]
+  }
+}
