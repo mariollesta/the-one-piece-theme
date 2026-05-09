@@ -639,7 +639,7 @@
 				"variable.function"
 			],
 			"settings": {
-				"foreground": "#4a9eca"
+				"foreground": "#d1b31d"
 			}
 		},
 		{
@@ -713,14 +713,14 @@
 			"name": "Storage",
 			"scope": "storage",
 			"settings": {
-				"foreground": "#4a9eca"
+				"foreground": "#97c7e2"
 			}
 		},
 		{
 			"name": "Storage JS TS",
 			"scope": "token.storage",
 			"settings": {
-				"foreground": "#4a9eca"
+				"foreground": "#97c7e2"
 			}
 		},
 		{
