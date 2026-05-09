@@ -35,6 +35,12 @@ I'm going to be King of the Pirates! Dark VS Code themes inspired by the world o
 
 ---
 
+## Changelog
+
+See [CHANGELOG.md](CHANGELOG.md) for the full list of changes.
+
+---
+
 ## License
 
 [MIT](LICENSE)
