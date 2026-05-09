@@ -3,6 +3,7 @@
   "displayName": "The One Piece Theme",
   "description": "Clean One Piece theme for Visual Studio Code",
   "version": "0.0.1",
+  "icon": "icon.webp",
   "publisher": "mariollesta",
   "repository": {
     "type": "git",
