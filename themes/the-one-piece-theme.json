@@ -492,6 +492,12 @@
 			}
 		},
 		{
+			"scope": "source.python",
+			"settings": {
+				"foreground": "#f9e7b8"
+			}
+		},
+		{
 			"name": "python parameter",
 			"scope": "variable.parameter.function.language.python",
 			"settings": {
@@ -770,7 +776,7 @@
 			"name": "Meta tag",
 			"scope": "meta.tag",
 			"settings": {
-				"foreground": "#e5eff9"
+				"foreground": "#cadff3"
 			}
 		},
 		{
@@ -2029,7 +2035,7 @@
 		"editor.findMatchBackground": "#4a9eca50",
 		"editor.findMatchBorder": "#4a9eca",
 		"editor.findMatchHighlightBackground": "#4a9eca25",
-		"editor.foreground": "#e5eff9",
+		"editor.foreground": "#cadff3",
 		"editor.lineHighlightBackground": "#4a9eca10",
 		"editor.selectionBackground": "#4a9eca35",
 		"editor.selectionHighlightBackground": "#4a9eca20",
