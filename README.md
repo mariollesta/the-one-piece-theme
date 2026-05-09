@@ -1,16 +1,40 @@
-# The One Piece Theme for Visual Studio Code
+# The One Piece Theme 🏴‍☠️
 
-## Working with Markdown
+![Banner](banner.webp)
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+I'm going to be King of the Pirates! Dark VS Code themes inspired by the world of One Piece. Built for long coding sessions on the Grand Line.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+---
 
-## For more information
+## Screenshots
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+![The One Piece Theme](screenshots/the-one-piece-theme.webp)
 
-**Enjoy!**
+---
+
+## Color Palettes
+
+### The One Piece Theme
+
+| Role | Color |
+|---|---|
+| Background | `#0d1b2a` |
+| Foreground | `#f9e7b8` |
+| Accent (Blue) | `#4a9eca` |
+| Accent (Red) | `#c0392b` |
+| Gold | `#8b6914` |
+
+---
+
+## Installation
+
+1. Open **Extensions** in VS Code (`Ctrl+Shift+X`)
+2. Search for **The One Piece Theme**
+3. Click **Install**
+4. Open the Command Palette (`Ctrl+Shift+P`) → **Preferences: Color Theme** → select **The One Piece Theme Dark**
+
+---
+
+## License
+
+[MIT](LICENSE)
