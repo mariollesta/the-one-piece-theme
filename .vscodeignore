@@ -1,5 +1,5 @@
 .gitignore
 .git
 .vscode
-*.vsix
-
+vsc-extension-quickstart.md
+screenshots/
