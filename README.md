@@ -2,13 +2,25 @@
 
 ![Banner](banner.webp)
 
-I'm going to be King of the Pirates! Dark VS Code themes inspired by the world of One Piece. Built for long coding sessions on the Grand Line.
+*I'm going to be The King of the Pirates!*
+
+Dark VS Code themes inspired by the world of One Piece. 
+
+Built for long coding sessions on the Grand Line.
 
 ---
 
 ## Screenshots
 
-![The One Piece Theme](screenshots/the-one-piece-theme.webp)
+<figure>
+  <img src="screenshots/the-one-piece-theme.webp" alt="The One Piece Theme" style="border-radius: 8px;" />
+  <figcaption>The One Piece Theme Dark</figcaption>
+</figure>
+
+<figure>
+  <img src="screenshots/the-one-piece-theme-zoro.webp" alt="The One Piece Theme Zoro" style="border-radius: 8px;" />
+  <figcaption>The One Piece Theme - Zoro</figcaption>
+</figure>
 
 ---
 
