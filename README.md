@@ -24,6 +24,19 @@ I'm going to be King of the Pirates! Dark VS Code themes inspired by the world o
 | Accent (Red) | `#c0392b` |
 | Gold | `#8b6914` |
 
+### The One Piece Theme - Zoro
+
+| Role | Color |
+|---|---|
+| Background | `#0a0d08` |
+| Foreground | `#e2e4e3` |
+| Accent (Green) | `#7ccc97` |
+| Strings | `#53b477` |
+| Keywords — Wado Ichimonji | `#e2e4e3` / `#b0a662` |
+| Errors / Entities — Sandai Kitetsu | `#d55e5e` / `#24384c` |
+| Functions — Enma | `#ba43e2` |
+| Methods — Shusui | `#373739` |
+
 ---
 
 ## Installation
