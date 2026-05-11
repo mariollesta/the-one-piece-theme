@@ -2,9 +2,17 @@
   "name": "the-one-piece-theme",
   "displayName": "The One Piece Theme",
   "description": "Clean One Piece dark theme for Visual Studio Code",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "icon": "icon.webp",
-  "keywords": ["theme", "dark theme", "anime", "one piece", "luffy", "pirate", "grand line"],
+  "keywords": [
+    "theme",
+    "dark theme",
+    "anime",
+    "one piece",
+    "luffy",
+    "pirate",
+    "grand line"
+  ],
   "publisher": "mariollesta",
   "repository": {
     "type": "git",
