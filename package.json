@@ -19,9 +19,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "The One Piece Theme Dark",
+        "label": "The One Piece Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/the-one-piece-theme.json"
+      },
+      {
+        "label": "The One Piece Theme - Zoro",
+        "uiTheme": "vs-dark",
+        "path": "./themes/the-one-piece-theme-zoro.json"
       }
     ]
   },
