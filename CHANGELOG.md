@@ -2,6 +2,13 @@
 
 All notable changes to the "The One Piece Theme" extension will be documented in this file.
 
+## [0.1.1] - 2026-05-12
+
+### Fixed
+- Adjust UI colors in both themes (menus, title bar, status bar, sidebar, terminal)
+- Fix description foreground color in main theme
+- Update README screenshots to Markdown format
+
 ## [0.1.0] - 2026-05-11
 
 ### Added

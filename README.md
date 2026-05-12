@@ -12,15 +12,11 @@ Built for long coding sessions on the Grand Line.
 
 ## Screenshots
 
-<figure>
-  <img src="screenshots/the-one-piece-theme.webp" alt="The One Piece Theme" style="border-radius: 8px;" />
-  <figcaption>The One Piece Theme Dark</figcaption>
-</figure>
+![The One Piece Theme](screenshots/the-one-piece-theme.webp)
+*The One Piece Theme Dark*
 
-<figure>
-  <img src="screenshots/the-one-piece-theme-zoro.webp" alt="The One Piece Theme Zoro" style="border-radius: 8px;" />
-  <figcaption>The One Piece Theme - Zoro</figcaption>
-</figure>
+![The One Piece Theme Zoro](screenshots/the-one-piece-theme-zoro.webp)
+*The One Piece Theme - Zoro*
 
 ---
 
