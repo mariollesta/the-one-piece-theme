@@ -1842,7 +1842,7 @@
 		"list.warningForeground": "#b0a662",
 
 		"menu.foreground": "#a4a4a7",
-		"menu.background": "#0a0d0880",
+		"menu.background": "#0a0d08cc",
 		"menu.separatorBackground": "#7ccc9720",
 		"minimapGutter.addedBackground": "#7ccc97",
 		"minimapGutter.deletedBackground": "#d55e5e",

@@ -2,6 +2,12 @@
 
 All notable changes to the "The One Piece Theme" extension will be documented in this file.
 
+## [0.1.2] - 2026-05-13
+
+### Fixed
+- Adjust menu background opacity in Zoro theme
+- Adjust title bar color in main theme
+
 ## [0.1.1] - 2026-05-12
 
 ### Fixed

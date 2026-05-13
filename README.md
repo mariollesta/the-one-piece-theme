@@ -4,9 +4,7 @@
 
 *I'm going to be The King of the Pirates!*
 
-Dark VS Code themes inspired by the world of One Piece. 
-
-Built for long coding sessions on the Grand Line.
+Dark VS Code themes inspired by the world of One Piece. Built for long coding sessions on the Grand Line.
 
 ---
 

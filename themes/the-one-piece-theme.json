@@ -2161,7 +2161,7 @@
 		"textLink.foreground": "#4a9eca",
 		"textPreformat.foreground": "#f9e7b8",
 		"titleBar.activeBackground": "#0a1520",
-		"titleBar.activeForeground": "#f9e7b8",
+		"titleBar.activeForeground": "#f9e7b8cc",
 		"titleBar.inactiveBackground": "#061018",
 		"titleBar.inactiveForeground": "#2a4a6a",
 		"tree.indentGuidesStroke": "#4a9eca20",
