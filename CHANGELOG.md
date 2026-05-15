@@ -2,6 +2,11 @@
 
 All notable changes to the "The One Piece Theme" extension will be documented in this file.
 
+## [0.1.3] - 2026-05-15
+
+### Fixed
+- Adjust Zoro support type property name color
+
 ## [0.1.2] - 2026-05-13
 
 ### Fixed
