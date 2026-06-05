@@ -2,6 +2,18 @@
 
 All notable changes to the "The One Piece Theme" extension will be documented in this file.
 
+## [0.2.0] - 2026-06-05
+
+### Added
+- New theme: The One Piece Theme - Luffy
+  - Dark palette inspired by Monkey D. Luffy
+  - Lagoon Blue (keywords), China Rose (strings/errors), Gold Rush (constants) and Dusty Peach (text) color roles
+
+### Changed
+- Redesign of The One Piece Theme - Zoro with new palette
+  - Baltic Sea, Stromboli, Battleship Gray, Shimmer Silver and New Green color scheme
+- Adjust title bar and status bar foreground in main theme
+
 ## [0.1.3] - 2026-05-15
 
 ### Fixed
