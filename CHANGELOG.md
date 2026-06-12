@@ -2,7 +2,9 @@
 
 All notable changes to the "The One Piece Theme" extension will be documented in this file.
 
-## [0.3.0] - 2026-06-12
+## [0.5.0] - 2026-06-12
+
+> Note: version jumped from 0.2.0 to 0.5.0 due to a publishing tooling issue (failed PAT during release, causing duplicate version bumps).
 
 ### Added
 - New theme: The One Piece Theme - Nami
