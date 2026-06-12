@@ -40,6 +40,11 @@
         "label": "The One Piece Theme - Zoro",
         "uiTheme": "vs-dark",
         "path": "./themes/the-one-piece-theme-zoro.json"
+      },
+      {
+        "label": "The One Piece Theme - Nami",
+        "uiTheme": "vs-dark",
+        "path": "./themes/the-one-piece-theme-nami.json"
       }
     ]
   },

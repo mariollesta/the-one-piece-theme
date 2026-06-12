@@ -2,6 +2,15 @@
 
 All notable changes to the "The One Piece Theme" extension will be documented in this file.
 
+## [0.3.0] - 2026-06-12
+
+### Added
+- New theme: The One Piece Theme - Nami
+  - Dark navy palette inspired by Nami
+
+### Fixed
+- Adjust ignored resource foreground color in Zoro theme
+
 ## [0.2.0] - 2026-06-05
 
 ### Added

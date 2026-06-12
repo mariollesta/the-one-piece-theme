@@ -19,6 +19,9 @@ Dark VS Code themes inspired by the world of One Piece. Built for long coding se
 ![The One Piece Theme Zoro](screenshots/the-one-piece-theme-zoro.webp)
 *The One Piece Theme - Zoro*
 
+![The One Piece Theme Nami](screenshots/the-one-piece-theme-nami.webp)
+*The One Piece Theme - Nami*
+
 ---
 
 ## Color Palettes
@@ -70,6 +73,21 @@ Dark VS Code themes inspired by the world of One Piece. Built for long coding se
 | Tags HTML | `#8b25a6` | Enma — The blade that draws out one's power |
 | Comments | `#375949` | Stromboli — The forest where Zoro trains |
 
+### The One Piece Theme - Nami
+
+| Role | Color | Meaning |
+|---|---|---|
+| Background | `#0a0d12` | Deep navy — The night sky over the Log Pose |
+| Sidebar / UI | `#10141c` | Dark blue — Nami's tattoo ink |
+| Foreground | `#EDEEEA` | Smooth White — Nami's clear sky maps |
+| Keywords / Operators | `#7ec8e3` | Log Pose Sky — Guiding the way across the seas |
+| Classes / Types | `#E67D28` | Sweet Honey — Nami's orange hair |
+| Constants / Numbers | `#7ec8e3` | Log Pose Sky — Guiding the way across the seas |
+| Strings | `#E67D28` | Sweet Honey — Nami's orange hair |
+| Errors | `#c0392b` | Crimson — Danger on the high seas |
+| Functions | `#79482C` | Brown Leather — Nami's boots and belt |
+| Tags HTML | `#E67D28` | Sweet Honey — Nami's orange hair |
+| Comments | `#1a2230` | Deep navy — Charts of unknown waters |
 
 ---
 
