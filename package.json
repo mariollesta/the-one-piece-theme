@@ -2,7 +2,7 @@
   "name": "the-one-piece-theme",
   "displayName": "The One Piece Theme",
   "description": "Clean, dark One Piece themes for Visual Studio Code",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "icon": "icon.webp",
   "keywords": [
     "theme",
